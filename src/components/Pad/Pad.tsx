@@ -15,7 +15,7 @@ interface PadProps{
 
 export const Pad:FunctionComponent<PadProps> = ( ) => {
     return (
-<StyledPad>
+    <StyledPad>
       <Button >
         MR
       </Button>
