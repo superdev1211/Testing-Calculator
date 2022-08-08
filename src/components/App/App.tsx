@@ -7,7 +7,6 @@ import {
     StyledApp
 } from './App.styled';
 
-// import Display from 'Display';
 
 
 
